@@ -1,0 +1,30 @@
+{
+    "sender" : "xxxx@xx.com",
+    "passwd" : "stmp token",
+    "userData": {
+        "1234567890": {
+            "phone": 12345678901,
+            "email": "xxxx@xx.com",
+            "deviceID": "",
+            "cookie": {
+                "login_ticket": "xxx",
+                "login_uid": "xxx",
+                "aliyungf_tc": "xxx",
+                "stoken": "xxx",
+                "account_id": "xxx",
+                "cookie_token": "xxx",
+                "ltoken": "xxx",
+                "ltuid": "xxx",
+                "stuid": "xxx"
+            },
+            "setting":{
+                "resinRemindOn": true,
+                "resinRemindThreshold": 150,
+                "expeditionRemindOn": true,
+                "coinRemindOn": true,
+                "homeRemindThreshold": 0.9,
+                "transformerRemindOn": true
+            }
+        }
+    }
+}
